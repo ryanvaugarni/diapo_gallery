@@ -1,4 +1,4 @@
-# Cours Diapo ans GAllery
+# Cours Diapo and Gallery
 ## Comment faire une galerie et un diaporama ?
 Ce dépôt sert à apprendre à gérer les propriétés css et le langage js
 
